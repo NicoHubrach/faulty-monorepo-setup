@@ -1,0 +1,9 @@
+{
+  "name": "sehkunst",
+  "version": "0.0.1",
+  "description": "Monorepo for enflex.it applications",
+  "repository": "https://github.com/EnFlexIT/AWB-WebUI",
+  "author": "Nico Hubrach, Tiberio Morreale",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"]
+}
